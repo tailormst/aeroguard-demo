@@ -1,0 +1,5 @@
+{
+  "name": "AeroGuard AI - Resilience Agent",
+  "description": "A next-generation airline operations resilience platform powered by Gemini. Features real-time dashboard analytics, AI-driven crisis simulation, intelligent roster optimization, and automated communication drafting.",
+  "requestFramePermissions": []
+}
