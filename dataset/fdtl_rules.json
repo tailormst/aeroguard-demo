@@ -1,0 +1,8 @@
+{
+  "continuous_weekly_rest_hours": 48,
+  "night_landings_limit_per_week": 6,
+  "night_window": {
+    "start": "00:00",
+    "end": "06:00"
+  }
+}
