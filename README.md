@@ -6,7 +6,7 @@
 
 AeroGuard AI predicts crew shortages, simulates FDTL/regulatory shocks, generates compliant rosters, and drafts passenger communications — powered by Google AI Studio (Gemini 3 Pro) and a serverless backend on Cloud Run.
 
-- Live AI Studio App: PLACEHOLDER_AI_STUDIO_APP_URL
+- Live AI Studio App: https://aeroguard-ai-resilience-agent-768547020206.us-west1.run.app
 - Cloud Run API: https://aeroguard-api-768547020206.asia-south1.run.app
 - Demo Video (2 min): PLACEHOLDER_VIDEO_URL
 - GitHub Repository: https://github.com/tailormst/aeroguard-demo
