@@ -8,7 +8,7 @@ AeroGuard AI predicts crew shortages, simulates FDTL/regulatory shocks, generate
 
 - Live AI Studio App: https://aeroguard-ai-resilience-agent-768547020206.us-west1.run.app
 - Cloud Run API: https://aeroguard-api-768547020206.asia-south1.run.app
-- Demo Video (2 min): PLACEHOLDER_VIDEO_URL
+- Video Demo (2 min): https://youtu.be/CwHu_ubwe4U
 - GitHub Repository: https://github.com/tailormst/aeroguard-demo
 
 ---
